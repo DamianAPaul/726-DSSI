@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Arduino / Teensy build output
+build/
+*.hex
+*.elf
+
+# KiCad temporary and backup files
+*-backups/
+_autosave-*
+*.lck
+*.kicad_prl
+
+# Editor temporary files
+*.tmp
+*.swp
+*~
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
