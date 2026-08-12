@@ -4,6 +4,8 @@ A standalone digital synthesizer and 64-step sequencer designed around the Teens
 
 The 726-DSSI is a personal embedded systems project combining real-time digital audio processing, custom C++ firmware, PCB design, physical controls, sequencing, and visual feedback.
 
+![726-DSSI PCB 3D Render](726-DSSI_Images/Back.png)
+
 ## Features
 
 - Up to 8 simultaneous oscillator, noise, or sample-based voices
