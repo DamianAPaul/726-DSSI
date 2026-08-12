@@ -4,7 +4,8 @@ A standalone digital synthesizer and 64-step sequencer designed around the Teens
 
 The 726-DSSI is a personal embedded systems project combining real-time digital audio processing, custom C++ firmware, PCB design, physical controls, sequencing, and visual feedback.
 
-![726-DSSI PCB 3D Render](726-DSSI_Images/Back.png)
+![726-DSSI Complete Audio Signal Path](726-DSSI_Images/Screenshot 2026-07-30 at 5.30.22 PM.png)
+![726-DSSI PCB 3D Front Render](726-DSSI_Images/FrontofPCB.png)
 
 ## Features
 
@@ -42,7 +43,7 @@ The firmware handles:
 
 ## Repository Structure
 
-- `726-DSSI_Firmware/` — Teensy C++ firmware
+- `726-DSSI_Firmware/` — Teensy C++ code, including the complete audio signal path
 - `726-DSSI_CAD/` — KiCad schematic, PCB design files, custom footprint library, and gerbers
 - `726-DSSI_Images/` — project images, mainly from prototyping phase
 
