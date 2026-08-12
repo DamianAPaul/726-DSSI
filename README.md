@@ -46,7 +46,7 @@ The firmware handles:
 
 ## Project Status
 
-The breadboard prototype has been used for firmware and subsystem development. The first custom PCB revision has been fabricated, with hardware bring-up and validation in progress.
+The breadboard prototype has been used for firmware and subsystem development. The first custom PCB revision has been fabricated, validated, and is awaiting shipping.
 
 ## Author
 
